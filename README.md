@@ -49,13 +49,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaraMarques.github.io/Stage03-Projeto02-Responsividade)
+- [Visite o projeto online](https://iaramarques.github.io/Stage03-Desafio04-Space-Cream-Desktop/)
 
 <br/>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ifhWvLxSB7QZ9DsfZNoqPm/Stage-03---Mobile-First-(Copy)?node-id=0-1&t=qYK1KB9EEKJvVY0B-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/OlwuDcs18fmlvXQNi6zand/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
 <div>
   <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
