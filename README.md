@@ -1,10 +1,10 @@
-<h1 align="center"> Stage03-Desafio04 <br/>Space Cream Desktop </h1>
+<h1 align="center"> Stage03-Challenge 04 <br/>Space Cream Desktop </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -19,51 +19,51 @@
   <img alt="final-layout-desktop-version" src="images/desktop1.png" width="90%" >  
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML 
 - CSS
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 <p align="center">
-  O Desafio 04 é uma criação de uma Landing-Page básica para fortalecer nosso conhecimento sobre alguns conceitos aprendidos em aula na Rocketseat, entre eles:
+  Challenge 04 is a creation of a basic Landing-Page to strengthen our knowledge about some concepts learned in class at Rocketseat, including:
 </p>
 
 
   <ul>
   <li>Display Grid</li>
-  <li>Unidade de Medida Flexível</li>
-  <li>Variáveis</li>
-  <li>Animações</li>
-  <li>Transições e Transformações</li>
+  <li>Flexible Unit of Measure</li>
+  <li>Variables</li>
+  <li>Animations</li>
+  <li>Transitions and Transformations</li>
   <li>Media Queries</li>
-  <li>Encaixando a imagem e sobrepondo o texto</li>
-  <li>Ajustando textos com css clamp</li>
+  <li>Fitting the Image and Overlapping the Text</li>
+  <li>Adjusting texts with css clamp</li>
 
   </ul>
       
 <br/>
 
-- [Visite o projeto online](https://iaramarques.github.io/Stage03-Desafio04-Space-Cream-Desktop/)
+- [Visit the project online](https://iaramarques.github.io/Stage03-Desafio04-Space-Cream-Desktop/)
 
 <br/>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/OlwuDcs18fmlvXQNi6zand/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
+You can view the layout of the project through [FROM THIS LINK](https://www.figma.com/file/OlwuDcs18fmlvXQNi6zand/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)). Must have an account on the [Figma](https://figma.com) to access it. 
 <div>
   <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT license.
 
 ---
 
-Feito com ♥ by Iara Marques :wave: [Participe da comunidade da RocketSeat!](https://discord.gg/rocketseat)
+Made with ♥ by Iara Marques :wave: [Join the RocketSeat community!](https://discord.gg/rocketseat)
